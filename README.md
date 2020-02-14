@@ -1,4 +1,5 @@
-# Android Client for Boomset Events
+# Android Client for Boomset Events 
+Pagination + Room library example
 
 * Android Architecture Components: 
     ViewModel , 
@@ -15,6 +16,7 @@
 
 ## Features
 * Showing events list and guest list of selected event with token
+* Offline support 
 * Pagination while scrolling
 * Room and Sqllite db used for offline support
 * Seperate UI, business logic and data sources' responsibilities
