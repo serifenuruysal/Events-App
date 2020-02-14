@@ -1,5 +1,5 @@
 # Android Client for Boomset Events 
-Pagination + Room library example
+Pagination + Room library demo
 
 * Android Architecture Components: 
     ViewModel , 
