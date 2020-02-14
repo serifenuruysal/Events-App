@@ -52,4 +52,3 @@ There are 3 layers in the project: Data (DB and Network), Entity and  UI layer t
 
 [The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 
-Serife Nur Uysal
