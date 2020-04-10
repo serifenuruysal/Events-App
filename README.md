@@ -1,4 +1,4 @@
-# Android Client for Boomset Events 
+# Android Client for Events 
 Pagination + Room library demo
 
 * Android Architecture Components: 
